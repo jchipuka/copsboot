@@ -1,4 +1,4 @@
-package com.example.CopsBoot;
+package jaison.chipuka.copsboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

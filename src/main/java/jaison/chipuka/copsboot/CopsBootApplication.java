@@ -1,4 +1,4 @@
-package com.example.CopsBoot;
+package jaison.chipuka.copsboot;
 
 import com.example.orm.jpa.UniqueIdGenerator;
 import org.springframework.boot.SpringApplication;
@@ -13,9 +13,4 @@ public class CopsBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CopsBootApplication.class, args);
 	}
-
-//	@Bean
-//	public UniqueIdGenerator<UUID> uniqueIdGenerator() {
-//		return new InMemoryUniqueIdGenerator();
-//	}
 }
